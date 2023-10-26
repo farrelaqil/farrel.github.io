@@ -1,0 +1,312 @@
+.navbar{
+    margin-left: 40px;
+}
+.inner{ 
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: -10px;
+    width:1533px ; 
+}
+
+
+.navbar .teks h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    margin-left: 10px;
+    
+}
+.navbar .teks a:hover{
+    text-decoration: underline;
+}
+.navbar1 .teks1 h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    float: right;
+    margin-top: -50px;
+    margin-left: -10px;
+    padding: 10px; 
+}
+.navbar1 .teks1 a:hover{
+    text-decoration: underline;
+}
+
+
+
+a{
+    text-decoration:none;
+}
+li{
+    display: inline-block;
+    
+}
+
+
+.teks1{
+    float: right;
+}
+
+.navbar .teks img{
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 5px;
+    
+}
+
+.gambar img{
+    width: 1505px;
+   
+}
+.gambar h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -350px;
+    color: white;
+    margin-left: 100px;
+    font-size: 40px;
+   font-weight: 500;
+   
+}
+.gambar h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 100px;
+    margin-top: -10px;
+   
+}
+.gambar a{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(0, 95, 190);
+    margin-left: 100px;
+    padding: 11px;
+    font-weight: 500;
+   
+    
+}
+.gambar a:hover{
+    background-color: rgb(0, 82, 164) ;
+}
+
+h1{
+    margin: 8px;
+}
+
+
+.bag{
+    margin-left: 35px;
+    margin-right: -20px;
+}
+
+.search{
+    margin-right: -50px;
+}
+
+.navbar{
+    margin-left: -50px;
+}
+.ms1t{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 45px;
+}
+.ms1 img{
+    width: 40px;
+    height: 40px;
+    cursor: pointer; 
+}
+.ms2t{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ms2 img{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.ms3t{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin-right: 40px;
+}
+.ms3 img{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;   
+    
+}
+.ms{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;   
+    
+}
+.mst a{
+ color: black;
+    
+}
+.mst{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box img{
+    width: 300px;
+    height: 175px;
+    cursor: pointer;
+}
+.box{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.tb{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+.tb a{
+    color: rgb(0, 151, 189);
+}
+.tb h3{
+    font-size: 25px;
+}
+.tb h4{
+    font-size:15px ;
+    font-weight: 400; 
+}
+
+.tb1{
+    margin-left: 60px;
+}
+
+.tb2{
+    margin-left: 420px;
+    margin-top: -145px;
+}
+.tb3{
+    margin-left:775px ;
+    margin-top: -240px;
+}
+.tb4{
+    float: right;
+    margin-right: 65px;
+    margin-top: -185px;
+}
+.inbox img{
+    width: 1350px;    
+    justify-content: center;
+}
+.inbox .inbox2{
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+}
+.inbox3{
+    margin-left: 230px;
+    margin-top: -400px;
+}
+.inbox3 h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+   font-weight: 500;
+}
+.inbox3 h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: -20px;
+}
+.inbox3 a{
+    background-color: rgb(0, 95, 190);
+    padding: 11px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.inbox3 a:hover{
+    background-color: rgb(0, 82, 164) ;
+}
+.judul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 250px; 
+      
+}
+.judul h1{
+    font-weight: 500;
+    margin-left: 60px;
+}
+.pox{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.pox img{
+    width: 300px;
+    height: 175px;
+    cursor: pointer;
+}
+.tp{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+.tp a{
+    color: rgb(0, 151, 189);
+}
+.tp h3{
+    font-size: 25px;
+}
+.tp h4{
+    font-size:15px ;
+    font-weight: 400; 
+}
+
+.tp1{
+    margin-left: 60px;
+}
+
+.tp2{
+    margin-left: 420px;
+    margin-top: -225px;
+}
+.tp3{
+    margin-left:775px ;
+    margin-top: -200px;
+}
+.tp4{
+    float: right;
+    margin-right: 60px;
+    margin-top: -250px;
+}
+.footer{
+    background-color: rgb(218, 218, 218);
+    color: rgb(97, 97, 97);
+    height: 250px;
+    justify-content: space-around;
+    display: flex;
+    margin-top: 50px;
+   
+}
+.footer h4{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+.footer a{
+    font-size: 10px;
+    color: rgb(97, 97, 97);
+   
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+.ms2t a:hover{
+    text-decoration: underline;
+}
+.ms1t a:hover{
+    text-decoration: underline;
+}
+.ms3t a:hover{
+    text-decoration: underline;
+}
